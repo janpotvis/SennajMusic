@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sennaj | Official Website</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="css/index.css">
+	
+</head>
+	<body>
+
+		<h1> Welcome to the official website of Sennaj Music</h1>
+		<br>
+		<h2> About me:</h2>
+		<p>I'm a DJ/Producer based in the Netherlands.</p>
+		<link href="music.html" <style color:white>>my music</link>
+	
+	//footer
+	<footer>
+		<table class="socials">
+			<tr class="socials">
+				<th class="socials"><img src="images/icon/insta_icon.jpg" alt="insta_icon"></th>
+				<th class="socials">hello</th>
+				<th class="socials">hello</th>
+				<th class="socials">hello</th>
+				<th class="socials">hello</th>
+			</tr>
+		</table>
+		<table class="footer">
+		  <tr class="footer">
+			<th class="footer">TOURS</th>
+			<th class="footer">MUSIC</th>
+			<th class="footer">CONTACT</th>
+		  </tr>
+		  <tr class="footer">
+			<td class="footer">All Events</td>
+			<td class="footer">All Music</td>
+			<td class="footer">Contact Us</td>
+		  </tr>
+		</table>
+	</footer>
+	</body>
+</html>

@@ -1,0 +1,49 @@
+
+body 
+{
+background-color: black;
+}
+
+h1 
+{
+color: white;
+}
+
+h2
+{
+	color: white;
+}
+	
+p 
+{
+color: white;
+}
+
+table.footer {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  color: white;
+}
+
+td.footer, th.footer {
+  text-align: left;
+  padding: 8px;
+}
+
+table.socials
+{
+	font-family: arial, sans-serif;
+	border-collapse: collapse;
+	width: auto;
+	color: white;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+td.socials, th.socials
+{
+	border: 1px solid #dddddd;
+	text-align: left;
+	padding: auto;
+}
